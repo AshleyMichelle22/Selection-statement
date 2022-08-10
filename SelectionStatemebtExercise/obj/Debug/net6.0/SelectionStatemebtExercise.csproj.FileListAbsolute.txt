@@ -1,0 +1,15 @@
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\bin\Debug\net6.0\SelectionStatemebtExercise.exe
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\bin\Debug\net6.0\SelectionStatemebtExercise.deps.json
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\bin\Debug\net6.0\SelectionStatemebtExercise.runtimeconfig.json
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\bin\Debug\net6.0\SelectionStatemebtExercise.dll
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\bin\Debug\net6.0\SelectionStatemebtExercise.pdb
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\SelectionStatemebtExercise.csproj.AssemblyReference.cache
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\SelectionStatemebtExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\SelectionStatemebtExercise.AssemblyInfoInputs.cache
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\SelectionStatemebtExercise.AssemblyInfo.cs
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\SelectionStatemebtExercise.csproj.CoreCompileInputs.cache
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\SelectionStatemebtExercise.dll
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\refint\SelectionStatemebtExercise.dll
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\SelectionStatemebtExercise.pdb
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\SelectionStatemebtExercise.genruntimeconfig.cache
+C:\Users\ashle\source\repos\SelectionStatemebtExercise\SelectionStatemebtExercise\obj\Debug\net6.0\ref\SelectionStatemebtExercise.dll
